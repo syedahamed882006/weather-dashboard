@@ -1,0 +1,10 @@
+{
+  "name": "weather-dashboard-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"./weather dashboard\" run dev",
+    "build": "npm --prefix \"./weather dashboard\" run build",
+    "lint": "npm --prefix \"./weather dashboard\" run lint",
+    "preview": "npm --prefix \"./weather dashboard\" run preview"
+  }
+}
